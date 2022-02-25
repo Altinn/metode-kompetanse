@@ -1,17 +1,23 @@
-## Description
-Brief summary of what this Epic is, whether it's a larger project, goal, or user story. Describe the job to be done, which persona this Epic is mainly for, or if more multiple, break it down by user and job story.
+## Forutsetninger
+- For å dele en brukerhistorie opp i håndterbare komponenter, må teamet identifisere og spesifisere oppgaver (tasklist/oppgaveliste). Oppgavelisten er detaljerte aktiviteter som må utføres for å fullføre en brukerhistorie. Oppgaver kan være fra noen få timers arbeid opp til 12. Oppgavene tildeles team medlemmer som har ekspertise til å utføre dem
+- NB! En Brukerhistorie er ikke Ansett som fullført før alle underliggende oppgaver er utført 
 
-## Initiative / goal
-Describe how this Epic impacts an initiative the business is working on.
+## Brukerhistorie
+- [ ] Som <rolle/person> ønsker jeg <oppgave/mål> slik at <resultat/forbedring>
 
-### Hypothesis
-What is your hypothesis on the success of this Epic? Describe how success will be measured and what leading indicators the team will have to know if success has been hit.
+## Krav til kartlegging
+- [ ] Hva har vi allerede i avdeling BOD på denne oppgaven
+- [ ] Hva har vi allerede i Digdir på denne oppgaven
+- [ ] Hva har vi allerede i andre etater på denne oppgaven
 
-## Acceptance criteria and must have scope
-Define what is a must-have for launch and in-scope. Keep this section fluid and dynamic until you lock-in priority during planning.
+## Brukerhistorien består av følgende oppgaver:
+- [ ] Oppgave 1
+- [ ] Oppgave 2
+- [ ] ..
+- [ ] Oppgav n
 
-## Stakeholders
-Describe who needs to be kept up-to-date about this Epic, included in discussions, or updated along the way. Stakeholders can be both in Product/Engineering, as well as other teams like Customer Success who might want to keep customers updated on the Epic project.
+## Akseptanse kriterium
+- [ ]  Oppgave er utført, på riktig måte og med riktig resultat
 
-## Timeline
-What's the timeline for this Epic, what resources are needed, and what might potentially block this from hitting the projected end date.
+## Brukerhistorie eksempel
+![image](https://user-images.githubusercontent.com/72547415/155699147-36e7d830-a8a7-4613-946e-de53f7715b61.png)
